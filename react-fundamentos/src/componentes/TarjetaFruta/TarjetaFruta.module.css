@@ -1,0 +1,11 @@
+.card {
+    border: solid black;
+    margin-bottom: 1em;
+    border-radius: 0.5em;
+    padding: 1em;
+    background: grey
+}
+
+.card-active {
+    background: green
+}

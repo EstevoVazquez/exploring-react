@@ -1,0 +1,17 @@
+.box {
+    padding: 05em;
+    margin: 05em;
+    border-radius: 03.em;
+    border: 2px dashed gray;
+
+}
+
+.blue {
+    border: 2px dashed blue;
+}
+.red {
+    border: 2px dashed red;
+}
+.green {
+    border: 2px dashed green;
+}
